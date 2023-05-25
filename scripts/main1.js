@@ -137,7 +137,7 @@ closeCart.onclick = () => {
 };
 
 guardarCarrito();
-window.location.href = "otro.html";
+//window.location.href = "otro.html";
 
 
 function procesarCompra() {
