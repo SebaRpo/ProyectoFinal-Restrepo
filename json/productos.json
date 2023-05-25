@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "VestidodebañoBodiesolyluna",
+    "imagen": "img/vestido1.png",
+    "categoria": "vestido_de_banio",
+    "precio": 35000,
+    "cantidad": 0
+  },
+  {
+    "id": 2,
+    "nombre": "VestidodebañoBodiePalmas",
+    "imagen": "img/vestido2.png",
+    "categoria": "vestido_de_banio",
+    "precio": 35000,
+    "cantidad": 0
+  },
+  {
+    "id": 3,
+    "nombre": "VestidodebañoBodieJúpiter",
+    "imagen": "img/vestido3.png",
+    "categoria": "vestido_de_banio",
+    "precio": 35000,
+    "cantidad": 0
+  },
+  {
+    "id": 4,
+    "nombre": "VestidodebañoBodieRojoFuego",
+    "imagen": "img/vestido4.png",
+    "categoria": "vestido_de_banio",
+    "precio": 35000,
+    "cantidad": 0
+  },
+  {
+    "id": 5,
+    "nombre": "vestidodebañoBikiniGalaxia",
+    "imagen": "img/vestido5.png",
+    "categoria": "vestido_de_banio",
+    "precio": 35000,
+    "cantidad": 0
+  },
+  {
+    "id": 6,
+    "nombre": "VestidodebañoBikiniReversible",
+    "imagen": "img/vestido6.png",
+    "categoria": "vestido_de_banio",
+    "precio": 35000,
+    "cantidad": 0
+  }
+]
